@@ -18,4 +18,3 @@ for institution in institutions:
 
 print(f"Загальна кількість учнів у школах: {school_students}")
 print(f"Загальна кількість учнів у коледжах: {college_students}")
-
